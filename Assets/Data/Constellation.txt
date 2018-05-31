@@ -1,0 +1,14 @@
+id	name	nameId	icon
+1	白羊	1003	Icon_Constellation_Aries	
+2	金牛	1004	Icon_Constellation_Taurus	
+3	双子	1005	Icon_Constellation_Gemini	
+4	巨蟹	1006	Icon_Constellation_Cancer	
+5	狮子	1007	Icon_Constellation_Leo	
+6	处女	1008	Icon_Constellation_Virgo	
+7	天秤	1009	Icon_Constellation_Libra	
+8	天蝎	1010	Icon_Constellation_Scorpio	
+9	射手	1011	Icon_Constellation_Sagittarius	
+10	摩羯	1012	Icon_Constellation_Capricorn	
+11	水瓶	1013	Icon_Constellation_Aquarius	
+12	双鱼	1014	Icon_Constellation_Pisces	
+

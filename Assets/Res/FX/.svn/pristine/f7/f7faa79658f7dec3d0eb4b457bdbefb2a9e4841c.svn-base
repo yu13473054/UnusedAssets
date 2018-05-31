@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: FX_Mat_3
+  m_Shader: {fileID: 4800000, guid: 592af9ebb544e3e45a733fa0e9f156c5, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _1:
+        m_Texture: {fileID: 2800000, guid: 33a19cd398d5ea8479f30f35858f8efb, type: 3}
+        m_Scale: {x: 0.4, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _2_RGBA:
+        m_Texture: {fileID: 2800000, guid: 7bf89615cc5cd2341ac9c77a9c32acaa, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _3:
+        m_Texture: {fileID: 2800000, guid: 371d2a97696d02b4581c2ca3bc06bdf0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _node_3288:
+        m_Texture: {fileID: 2800000, guid: 1b0752f678109f645b9e923f90f741a0, type: 3}
+        m_Scale: {x: 1, y: 5}
+        m_Offset: {x: 0, y: 0}
+    - _node_6873:
+        m_Texture: {fileID: 2800000, guid: 371d2a97696d02b4581c2ca3bc06bdf0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 12.06, y: 0}
+    m_Floats:
+    - _1_RGBA: 0
+    - _2_rgba: 0
+    - _3_liangdu: 2
+    - _Cutoff: 0.5
+    - _RGBA: 0
+    - _liangdu: 4
+    - _node_2814: -0.5
+    - _node_4769: 0.05
+    - _node_6713: 0
+    - _node_7726: 1
+    - _node_8862: -0.96
+    m_Colors:
+    - _3_col: {r: 0.07136679, g: 0.9705882, b: 0.74733335, a: 0.728}
+    - _node_7299: {r: 0, g: 0.5735294, b: 0.5023327, a: 0.697}

@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: DlgMain_Atlas
+  m_EditorData:
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 1
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 13
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+    packingParameters:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 0d3424d3ca3cb9948b24ae469f34fef7, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: f24ba6348549d8640be8bd5efab5b156, type: 3}
+  - {fileID: 21300000, guid: 7458d92410508a54994b98b1f8452bc6, type: 3}
+  - {fileID: 21300000, guid: 31460caa93e1da94ebc460156cbd524c, type: 3}
+  - {fileID: 21300000, guid: 9df8823dcc9d1d743a2bdf9523dddcd3, type: 3}
+  - {fileID: 21300000, guid: df544fd26d26c1b459071556dca1fca0, type: 3}
+  - {fileID: 21300000, guid: f7eafcbf4ce5b0644a00e856faa8c835, type: 3}
+  - {fileID: 21300000, guid: d236b69a69c045c40978059a17cbf718, type: 3}
+  - {fileID: 21300000, guid: 25bdf1a402df84e41badc84f761c2ddb, type: 3}
+  - {fileID: 21300000, guid: 43fc9ea3e42710441bf626c08b14892f, type: 3}
+  - {fileID: 21300000, guid: 381b505524705634fb2e4ffe3088254b, type: 3}
+  - {fileID: 21300000, guid: 34d41ca261f3470469c2e754389a87af, type: 3}
+  - {fileID: 21300000, guid: f52202b56941939409a2f27eb7cc3790, type: 3}
+  - {fileID: 21300000, guid: bab8db255c236e44796f56bacfcfb785, type: 3}
+  - {fileID: 21300000, guid: 3cd839cc1af3b5449876213e1e87eac9, type: 3}
+  - {fileID: 21300000, guid: 54d702b1354f9d842960033398be6d28, type: 3}
+  - {fileID: 21300000, guid: 376ee5bfe0f6745459957f3037e6c310, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - DlgMain_HeadFrame
+  - DlgMain_BtnGrouopBg
+  - DlgMain_Role
+  - DlgMain_Friend
+  - DlgMain_Quest
+  - DlgMain_Activity
+  - DlgMain_Archive
+  - DlgMain_BuilderBtn
+  - DlgMain_Bg2
+  - DlgMain_ArrowBg
+  - DlgMain_Arrow
+  - DlgMain_ChatBtn
+  - DlgMain_EmailBtn
+  - DlgMain_ExpBg
+  - DlgMain_ExpFront
+  - DlgMain_LvBg
+  m_Tag: DlgMain_Atlas
+  m_IsVariant: 0

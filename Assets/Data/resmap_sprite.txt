@@ -1,0 +1,9 @@
+资源键名	资源路径	所在assetBundle名称
+DlgBattle_Blood_01	Assets/Res/Atlas/DlgBattle/DlgBattle_Blood_01.png	atlas_DlgBattle
+DlgBattle_Blood_02	Assets/Res/Atlas/DlgBattle/DlgBattle_Blood_02.png	atlas_DlgBattle
+Cm_Ft_ItemIconFrame	Assets/Res/AtlasCommon/Front/Cm_Ft_ItemIconFrame.png	Cm_Front
+DlgChapter_PassBtn	Assets/Res/Atlas/DlgChapter/DlgChapter_PassBtn.png	atlas_DlgChapter
+DlgChapter_NormalBtn	Assets/Res/Atlas/DlgChapter/DlgChapter_NormalBtn.png	atlas_DlgChapter
+DlgRole_DetailTab1	Assets/Res/Atlas/DlgRole/DlgRole_DetailTab1.png	atlas_DlgRole
+DlgRole_DetailTab2	Assets/Res/Atlas/DlgRole/DlgRole_DetailTab2.png	atlas_DlgRole
+Sg_Chapter_Bg	Assets/Res/SpritesGroup/SG_Chapter/Sg_Chapter_Bg.png	SG_Chapter

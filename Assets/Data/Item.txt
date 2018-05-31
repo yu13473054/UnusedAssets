@@ -1,0 +1,4 @@
+id	name	nameId	descId	iconRes	
+1	道具	300001	300002	Icon_Item_1	
+2	金币	300001	300002	Icon_Item_1	
+

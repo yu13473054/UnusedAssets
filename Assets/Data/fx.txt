@@ -1,0 +1,11 @@
+id	name	resName	editorPath	abName	life
+1	»ðÑæ³å»÷	FX_zadi01	Assets/Res/FX/Fight_zadi01/FX_zadi01.prefab	fx_fight_zadi01	1
+2	»¤¶Ü	FX_hudun01	Assets/Res/FX/Fight_hudun01/FX_hudun01.prefab	fx_fight_hudun01	0
+3	ÖÎÁÆ	FX_zhiliao01	Assets/Res/FX/Fight_zhiliao01/FX_zhiliao01.prefab	fx_fight_zhiliao01	1.2
+4	»ðÇò	FX_huozidan01	Assets/Res/FX/Fight_huozidan01/FX_huozidan01.prefab	fx_fight_huozidan01	0
+5	·¨Çò	FX_yuanqidan01	Assets/Res/FX/Fight_yuanqidan01/FX_yuanqidan01.prefab	fx_fight_yuanqidan01	0
+6	Ä§·¨·Éµ¯	FX_mofafeidan01	Assets/Res/FX/Fight_mofafeidan01/FX_mofafeidan01.prefab	fx_fight_mofafeidan01	0
+7	¶¾ÒºÅçÓ¿	FX_zhongdu01	Assets/Res/FX/Fight_zhongdu01/FX_zhongdu01.prefab	fx_fight_zhongdu01	3
+8	ÖÐ¶¾	FX_zhongdu02	Assets/Res/FX/Fight_zhongdu01/FX_zhongdu02.prefab	fx_fight_zhongdu01	0
+9	ÆÕÍ¨ÊÜ»÷	FX_shouji01	Assets/Res/FX/Fight_shouji01/FX_shouji01.prefab	fx_fight_shouji01	0.5
+10	ÆÕÍ¨ÊÜ»÷±©»÷	FX_shoujibaoji01	Assets/Res/FX/Fight_shoujibaoji01/FX_shoujibaoji01.prefab	fx_fight_shoujibaoji01	0.5

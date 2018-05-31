@@ -1,0 +1,4 @@
+id	name	actionType	life	interval	value1	value2	value3	value4	type	canDispel	isAura	fxID	quitFXID	path
+1	毒伤害	1	5000	1000	0	0	10	0	2	1	0	8	0	1	
+2	护盾	2	10000	0	3	0	0	0	1	1	0	2	0	0	
+

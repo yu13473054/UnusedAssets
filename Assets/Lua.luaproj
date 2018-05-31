@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>E439935D-B2A2-46AE-856D-2AA408428F33</ProjectGuid>
+    <!--$guid1$-->
+    <ProjectHome>.\Lua</ProjectHome>
+    <StartupFile>
+    </StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="character\" />
+    <Folder Include="fight\" />
+    <Folder Include="logic\" />
+    <Folder Include="protobuf\" />
+    <Folder Include="protocols\" />
+    <Folder Include="skill\" />
+    <Folder Include="tolua\" />
+    <Folder Include="tolua\cjson\" />
+    <Folder Include="tolua\jit\" />
+    <Folder Include="tolua\lpeg\" />
+    <Folder Include="tolua\misc\" />
+    <Folder Include="tolua\socket\" />
+    <Folder Include="tolua\System\" />
+    <Folder Include="tolua\System\Reflection\" />
+    <Folder Include="tolua\UnityEngine\" />
+    <Folder Include="ui\" />
+    <Folder Include="ui\Commonlogic\" />
+    <Folder Include="utils\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="character\Character.lua" />
+    <Compile Include="character\CharacterManager.lua" />
+    <Compile Include="fight\AI.lua" />
+    <Compile Include="fight\AIState.lua" />
+    <Compile Include="fight\Fight.lua" />
+    <Compile Include="fight\FightCamera.lua" />
+    <Compile Include="fight\FightDebugger.lua" />
+    <Compile Include="fight\FightScene.lua" />
+    <Compile Include="fight\FightUtils.lua" />
+    <Compile Include="fight\Unit.lua" />
+    <Compile Include="logic\PlayerInfo.lua" />
+    <Compile Include="logic\Data.lua" />
+    <Compile Include="logic\Define.lua" />
+    <Compile Include="logic\FXManager.lua" />
+    <Compile Include="logic\Include.lua" />
+    <Compile Include="logic\Main.lua" />
+    <Compile Include="logic\Network.lua" />
+    <Compile Include="protobuf\containers.lua" />
+    <Compile Include="protobuf\decoder.lua" />
+    <Compile Include="protobuf\descriptor.lua" />
+    <Compile Include="protobuf\encoder.lua" />
+    <Compile Include="protobuf\listener.lua" />
+    <Compile Include="protobuf\protobuf.lua" />
+    <Compile Include="protobuf\text_format.lua" />
+    <Compile Include="protobuf\type_checkers.lua" />
+    <Compile Include="protobuf\wire_format.lua" />
+    <Compile Include="protocols\C2GRequestMsgProto_pb.lua" />
+    <Compile Include="protocols\C2GResponseMsg_pb.lua" />
+    <Compile Include="protocols\VO_pb.lua" />
+    <Compile Include="skill\Buff.lua" />
+    <Compile Include="skill\BuffAction.lua" />
+    <Compile Include="skill\Bullet.lua" />
+    <Compile Include="skill\BulletFX.lua" />
+    <Compile Include="skill\BulletFXAction.lua" />
+    <Compile Include="skill\Effect.lua" />
+    <Compile Include="skill\EffectAction.lua" />
+    <Compile Include="skill\EffectTarget.lua" />
+    <Compile Include="skill\Emitter.lua" />
+    <Compile Include="skill\EmitterTarget.lua" />
+    <Compile Include="tolua\cjson\util.lua" />
+    <Compile Include="tolua\event.lua" />
+    <Compile Include="tolua\events.lua" />
+    <Compile Include="tolua\jit\bc.lua" />
+    <Compile Include="tolua\jit\bcsave.lua" />
+    <Compile Include="tolua\jit\dis_arm.lua" />
+    <Compile Include="tolua\jit\dis_arm64.lua" />
+    <Compile Include="tolua\jit\dis_arm64be.lua" />
+    <Compile Include="tolua\jit\dis_mips.lua" />
+    <Compile Include="tolua\jit\dis_mips64.lua" />
+    <Compile Include="tolua\jit\dis_mips64el.lua" />
+    <Compile Include="tolua\jit\dis_mipsel.lua" />
+    <Compile Include="tolua\jit\dis_ppc.lua" />
+    <Compile Include="tolua\jit\dis_x64.lua" />
+    <Compile Include="tolua\jit\dis_x86.lua" />
+    <Compile Include="tolua\jit\dump.lua" />
+    <Compile Include="tolua\jit\p.lua" />
+    <Compile Include="tolua\jit\v.lua" />
+    <Compile Include="tolua\jit\vmdef.lua" />
+    <Compile Include="tolua\jit\zone.lua" />
+    <Compile Include="tolua\list.lua" />
+    <Compile Include="tolua\lpeg\re.lua" />
+    <Compile Include="tolua\ltn12.lua" />
+    <Compile Include="tolua\mime.lua" />
+    <Compile Include="tolua\misc\functions.lua" />
+    <Compile Include="tolua\misc\strict.lua" />
+    <Compile Include="tolua\misc\utf8.lua" />
+    <Compile Include="tolua\slot.lua" />
+    <Compile Include="tolua\socket.lua" />
+    <Compile Include="tolua\socket\ftp.lua" />
+    <Compile Include="tolua\socket\headers.lua" />
+    <Compile Include="tolua\socket\http.lua" />
+    <Compile Include="tolua\socket\mbox.lua" />
+    <Compile Include="tolua\socket\smtp.lua" />
+    <Compile Include="tolua\socket\tp.lua" />
+    <Compile Include="tolua\socket\url.lua" />
+    <Compile Include="tolua\System\coroutine.lua" />
+    <Compile Include="tolua\System\Reflection\BindingFlags.lua" />
+    <Compile Include="tolua\System\Timer.lua" />
+    <Compile Include="tolua\System\ValueType.lua" />
+    <Compile Include="tolua\tolua.lua" />
+    <Compile Include="tolua\typeof.lua" />
+    <Compile Include="tolua\UnityEngine\Bounds.lua" />
+    <Compile Include="tolua\UnityEngine\Color.lua" />
+    <Compile Include="tolua\UnityEngine\LayerMask.lua" />
+    <Compile Include="tolua\UnityEngine\Mathf.lua" />
+    <Compile Include="tolua\UnityEngine\Plane.lua" />
+    <Compile Include="tolua\UnityEngine\Profiler.lua" />
+    <Compile Include="tolua\UnityEngine\Quaternion.lua" />
+    <Compile Include="tolua\UnityEngine\Ray.lua" />
+    <Compile Include="tolua\UnityEngine\RaycastHit.lua" />
+    <Compile Include="tolua\UnityEngine\Rect.lua" />
+    <Compile Include="tolua\UnityEngine\Time.lua" />
+    <Compile Include="tolua\UnityEngine\Touch.lua" />
+    <Compile Include="tolua\UnityEngine\Vector2.lua" />
+    <Compile Include="tolua\UnityEngine\Vector3.lua" />
+    <Compile Include="tolua\UnityEngine\Vector4.lua" />
+    <Compile Include="ui\Commonlogic\IconLogic.lua" />
+    <Compile Include="ui\DlgBattle.lua" />
+    <Compile Include="ui\DlgChapter.lua" />
+    <Compile Include="ui\DlgLogin.lua" />
+    <Compile Include="ui\DlgMain.lua" />
+    <Compile Include="ui\DlgPause.lua" />
+    <Compile Include="ui\DlgRole.lua" />
+    <Compile Include="ui\DlgRoleFilter.lua" />
+    <Compile Include="ui\DlgRoleShow.lua" />
+    <Compile Include="ui\DlgServerList.lua" />
+    <Compile Include="ui\DlgSkillShow.lua" />
+    <Compile Include="ui\DlgStageInfo.lua" />
+    <Compile Include="ui\DlgWait.lua" />
+    <Compile Include="utils\ObjectPool.lua" />
+    <Compile Include="utils\SpineUtils.lua" />
+    <Compile Include="utils\Utils.lua" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.Common.targets" />
+</Project>

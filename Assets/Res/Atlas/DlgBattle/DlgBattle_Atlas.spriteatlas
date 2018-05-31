@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: DlgBattle_Atlas
+  m_EditorData:
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 1
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 13
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+    packingParameters:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 8e9cd4c6e5139f943b4aa6305af5da1e, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: e2e13b1336e71bf4b8bccdba97676f5c, type: 3}
+  - {fileID: 21300000, guid: 77ebc397b84af994cae96c3fe462b47a, type: 3}
+  - {fileID: 21300000, guid: 460a309dac1dc8a49983578a0645ddd6, type: 3}
+  - {fileID: 21300000, guid: 8e37982dff75ba043916ee2d9f0333d5, type: 3}
+  - {fileID: 21300000, guid: d149a18e0703cbd4580f7991374abf5d, type: 3}
+  - {fileID: 21300000, guid: 71c91618bcf5b9b4da5bcdbc7e1bef76, type: 3}
+  - {fileID: 21300000, guid: bcc2004ef459ed24396de9dc08d61226, type: 3}
+  - {fileID: 21300000, guid: bdba8463904eae848afc8b38fd6af7e3, type: 3}
+  - {fileID: 21300000, guid: 1fc3ec0b11337e544abb08b46c04ad31, type: 3}
+  - {fileID: 21300000, guid: e83a6f66623f30a42ba10f4711ee971d, type: 3}
+  - {fileID: 21300000, guid: 816e64063ed75ff43bc3e73b86d91143, type: 3}
+  - {fileID: 21300000, guid: a53e58fba818f5041b699e385e1657b9, type: 3}
+  - {fileID: 21300000, guid: 547ba5d8993812b439d6f9db1f1c6a41, type: 3}
+  - {fileID: 21300000, guid: 7e9fc2772e7e3f542b632bee72fc8ff2, type: 3}
+  - {fileID: 21300000, guid: d97d16db7ba213c4284c6741e9a7ba4c, type: 3}
+  - {fileID: 21300000, guid: 92be5875c2f86bb40b0afc2f79bb07bc, type: 3}
+  - {fileID: 21300000, guid: a2512d3156e884b47967c0cd17e93708, type: 3}
+  - {fileID: 21300000, guid: 42c310e7662afa0429adcc948b43ff1f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - DlgBattle_BossHpBg
+  - DlgBattle_TitleBg
+  - DlgBattle_BossHp
+  - DlgBattle_HeroHpBg
+  - DlgBattle_Pause
+  - DlgBattle_SkillDotNumBg
+  - DlgBattle_BossIcon
+  - DlgBattle_EnergyBg
+  - DlgBattle_HeroHp
+  - DlgBattle_EnergyProc
+  - DlgBattle_Blood_bg_01
+  - DlgBattle_Blood_02
+  - DlgBattle_Dot
+  - DlgBattle_Blood_01
+  - DlgBattle_DotBg
+  - DlgBattle_Effect
+  - DlgBattle_Magic
+  - DlgBattle_CutLine
+  m_Tag: DlgBattle_Atlas
+  m_IsVariant: 0

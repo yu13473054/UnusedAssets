@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: DlgChapter_Atlas
+  m_EditorData:
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 1
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 13
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+    - m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+    packingParameters:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 4266a4ec473fd4247ae5e2814ee1d07c, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: b0d85e925e3875e4cb104256cfae2268, type: 3}
+  - {fileID: 21300000, guid: 8cd3173cf3e6f31489f47c6baab81882, type: 3}
+  - {fileID: 21300000, guid: 1bea378f9249fee46871a5e754fae155, type: 3}
+  - {fileID: 21300000, guid: 4db1053319772ad4988d3085e4b108f3, type: 3}
+  - {fileID: 21300000, guid: 94b2237fa09d8cf4899dfa4b36815eae, type: 3}
+  - {fileID: 21300000, guid: fa87e0cd0bb51dc48b56f06c6f4c0240, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - DlgChapter_Curr
+  - DlgChapter_Lock
+  - DlgChapter_NormalBtn
+  - DlgChapter_Arrow
+  - DlgChapter_PassBtn
+  - DlgChapter_TextBg
+  m_Tag: DlgChapter_Atlas
+  m_IsVariant: 0

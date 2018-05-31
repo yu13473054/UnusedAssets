@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: CM_Front_Atlas
+  m_EditorData:
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 1
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 13
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+    packingParameters:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: f5c1e2130bbed4f49960bc023d3434b0, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 0cc7a4c32253a9e4bb71f5476fe803d8, type: 3}
+  - {fileID: 21300000, guid: 6907b5fa9fa400e4391085eae622f5a4, type: 3}
+  - {fileID: 21300000, guid: a9ef3fc29f22dab419c7b887505d243a, type: 3}
+  - {fileID: 21300000, guid: 4969de61197bac54b83143bf3a7fe625, type: 3}
+  - {fileID: 21300000, guid: be4d56b75fde8fd4cae7bb6f1e1ef23b, type: 3}
+  - {fileID: 21300000, guid: 3676e1cd993422942a9ff86b902a0b70, type: 3}
+  - {fileID: 21300000, guid: 49a353ecb1dc5ec449aaba7cdd4df978, type: 3}
+  - {fileID: 21300000, guid: 8c82bbb113c582440b981d758557245b, type: 3}
+  - {fileID: 21300000, guid: 381805c9f2a240f46a15dbdd0404edd8, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Cm_Ft_HeadIconFrame
+  - Cm_Ft_Btn1
+  - Cm_Ft_Btn0
+  - Cm_Ft_ItemIconFrame
+  - Cm_Ft_ItemIconBottom
+  - Cm_Ft_DlgX
+  - Cm_Ft_BackBtn
+  - Cm_Ft_BtnBg
+  - Cm_Ft_Star
+  m_Tag: CM_Front_Atlas
+  m_IsVariant: 0

@@ -1,0 +1,16 @@
+id	name	varName	type	value	
+1	战斗排间隔	fightSpace_Row	0	8000	
+2	战斗列间隔	fightSpace_Col	0	16000	
+3	战斗起始排	fightStart_Row	0	-4000	
+4	战斗起始列	fightStart_Col	0	28000	
+5	射程换排阈值	range_Threshold	0	10000	
+6	入场跑的时间	fight_RunTime	0	2500	
+7	入场跑距离	fight_RunDistance	0	44000	
+8	基础爆伤	critical_Damage	0	150	
+9	换人准备时间	switch_PrepareTime	0	300	
+10	换人时间	switch_Time	0	1000	
+11	能量上限	magic_Max	0	100000	
+12	能量回复速度/毫秒	magic_Speed	0	5	
+13	能量伤害回复系数	magic_DmgFactor	0	10000	
+14	边缘入场位置	fightEdge_Col	0	72000	
+

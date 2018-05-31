@@ -1,0 +1,4 @@
+PlatID=1
+UpdateHost=http://192.168.3.102:8080/Resources/
+LoginHost=http://192.168.3.102:8090/
+ResourceMode=0

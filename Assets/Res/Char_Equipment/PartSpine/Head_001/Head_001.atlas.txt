@@ -1,0 +1,62 @@
+
+Head_001.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+houfa
+  rotate: false
+  xy: 1422, 900
+  size: 462, 511
+  orig: 462, 511
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 2
+  size: 549, 592
+  orig: 549, 592
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 1422, 1413
+  size: 567, 564
+  orig: 567, 564
+  offset: 0, 0
+  index: -1
+toushi
+  rotate: false
+  xy: 801, 282
+  size: 297, 313
+  orig: 297, 313
+  offset: 0, 0
+  index: -1
+youmao
+  rotate: true
+  xy: 553, 278
+  size: 316, 246
+  orig: 316, 246
+  offset: 0, 0
+  index: -1
+youmawei
+  rotate: false
+  xy: 751, 749
+  size: 669, 1228
+  orig: 669, 1228
+  offset: 0, 0
+  index: -1
+zuomao
+  rotate: true
+  xy: 751, 597
+  size: 150, 374
+  orig: 150, 374
+  offset: 0, 0
+  index: -1
+zuomawei
+  rotate: false
+  xy: 2, 596
+  size: 747, 1381
+  orig: 747, 1381
+  offset: 0, 0
+  index: -1

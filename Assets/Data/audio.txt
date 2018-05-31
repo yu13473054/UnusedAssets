@@ -1,0 +1,5 @@
+id	name	editorPath	abName	type	volume	loop
+100001	bgm_develop_lesson_2	Assets/Res/Audio/BGM/bgm_develop_lesson_2.ogg	bgm	1	1	1	
+100002	bgm_develop_lesson_4	Assets/Res/Sound/BGM/bgm_develop_lesson_4.ogg	bgm	1	1	0	
+200001	sfx_battle_allcombo	Assets/Res/Audio/Sound/sfx_battle_allcombo.ogg	audio	2	1	0	
+

@@ -1,0 +1,2 @@
+资源键名	本地资源路径	所在assetBundle名称
+UI_Mat_SpriteGray	Assets/Res/Materials/UI_Mat_SpriteGray.mat	Materials

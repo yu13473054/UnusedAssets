@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: DlgRole_Atlas
+  m_EditorData:
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 1
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 13
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+    packingParameters:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: b837c89701663c6409f24e225504e1e0, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 8c187dec299148c4baca90bda85c2aba, type: 3}
+  - {fileID: 21300000, guid: fd4e898dd237dd94c9033f81534bf964, type: 3}
+  - {fileID: 21300000, guid: c5a623862e1f95849b8acbed47850413, type: 3}
+  - {fileID: 21300000, guid: 2b532eab459551a48992df5b13c174f0, type: 3}
+  - {fileID: 21300000, guid: 4350c284cdbf16f4c8e9febb1d605417, type: 3}
+  - {fileID: 21300000, guid: 6774887c8e2291f4cb05ebcebc1b6693, type: 3}
+  - {fileID: 21300000, guid: 100945937e23f444a9bea3f84aa16049, type: 3}
+  - {fileID: 21300000, guid: 0ee6f3f0457548242bf9a6a6563d5725, type: 3}
+  - {fileID: 21300000, guid: 0d6d11f2867daa74a84b5945be31d856, type: 3}
+  - {fileID: 21300000, guid: 18b302bb71ad7664189cc46814aee2c7, type: 3}
+  - {fileID: 21300000, guid: f22d281fabf63e74a9d32a00023e0dac, type: 3}
+  - {fileID: 21300000, guid: a10e94a3a23e09f4a973a15ad96891a5, type: 3}
+  - {fileID: 21300000, guid: 968fa79d83ee1e44a9b3651b80ff6e7b, type: 3}
+  - {fileID: 21300000, guid: 5832b468d7e6e714eaa5ed3cb1b4713d, type: 3}
+  - {fileID: 21300000, guid: 54bc03f5ec8292940bc6d52e9eb86e8f, type: 3}
+  - {fileID: 21300000, guid: fbb9b754b6fae1f4d857f70d9f2f5faa, type: 3}
+  - {fileID: 21300000, guid: c0ae7f67e145e4e4dbda4fde314a43b8, type: 3}
+  - {fileID: 21300000, guid: f03bc28e23c399748be5282bfd2b4346, type: 3}
+  - {fileID: 21300000, guid: 940ff08899527b544aebb28458950e60, type: 3}
+  - {fileID: 21300000, guid: a7953a78ccdcd2a4ba20c6c4522aab4a, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - DlgRole_Frame
+  - DlgRole_ContentBg
+  - DlgRole_Upgrade
+  - DlgRole_NameBG
+  - DlgRole_DetailTab1
+  - DlgRole_DetailTab2
+  - DlgRole_BtnBg
+  - DlgRole_ConstellationBg
+  - DlgRole_Preview
+  - DlgRole_TitleBg
+  - DlgRole_Detail
+  - DlgRole_SortBtnBg
+  - DlgRole_ChoosenFrame
+  - DLgRole_lvBg
+  - DlgRole_TabBg
+  - DlgRole_BarKnob
+  - DlgRole_ExpProcBg
+  - DlgRole_BarBg
+  - DlgRole_ExpProcTop
+  - DlgRole_TabGroupBg
+  m_Tag: DlgRole_Atlas
+  m_IsVariant: 0

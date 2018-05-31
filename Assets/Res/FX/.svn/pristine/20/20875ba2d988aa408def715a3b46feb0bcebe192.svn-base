@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: FX_Tex_dujineng_1
+  m_Shader: {fileID: 4800000, guid: 72e41dc75bdc9354ca4c000a3cf16257, type: 3}
+  m_ShaderKeywords: _LIUDONGRONGJIE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _1:
+        m_Texture: {fileID: 2800000, guid: 42c98fa3f8732794ba087cf1d0dd77ec, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _node_215:
+        m_Texture: {fileID: 2800000, guid: a2d1352164e4abb479f9b5e467d7018f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: -0.24}
+    - _node_2227:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _wenli:
+        m_Texture: {fileID: 2800000, guid: 1b0752f678109f645b9e923f90f741a0, type: 3}
+        m_Scale: {x: 5, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _zhezhao:
+        m_Texture: {fileID: 2800000, guid: 371d2a97696d02b4581c2ca3bc06bdf0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _1_rgba: 0
+    - _Cutoff: 0.5
+    - _TEX1_ONOFF: 0
+    - _liangbian: 2
+    - _liudongrongjie: 1
+    - _node_3649: 1
+    - _wenli_1_u: 0
+    - _wenli_1_v: 0.5
+    - _wenli_2_u: 0
+    - _wenli_2_v: 1
+    - _zhezhao_2_u: 0
+    - _zhezhao_2_v: 0.34
+    m_Colors:
+    - _node_2271: {r: 0.16176468, g: 1, b: 0.41034478, a: 1}
+    - _node_4677: {r: 0.25, g: 1, b: 0.5655172, a: 1}
+    - _node_9837: {r: 0.17771965, g: 0.5661765, b: 0.054119796, a: 1}
+    - _node_993: {r: 0.038927335, g: 0.33088237, b: 0.13758796, a: 1}

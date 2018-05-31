@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Shader Forge_liudongwenli
+  m_Shader: {fileID: 4800000, guid: e5fdcb762d39b934ea8cbebcd580e7bc, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _1:
+        m_Texture: {fileID: 2800000, guid: 058a99682755abd40ba6992b73035787, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0.2052536}
+    - _wenli:
+        m_Texture: {fileID: 2800000, guid: 0c322c0e65961d543a739d460b4e9eb1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _zhezhao:
+        m_Texture: {fileID: 2800000, guid: 8a58e78ada862304da69f4cf5792994f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _1_rgba: 0
+    - _Cutoff: 0.5
+    - _TEX1_ONOFF: 0
+    - _node_3649: 1
+    - _wenli_1_u: 0
+    - _wenli_1_v: 0.1
+    - _wenli_2_u: 0
+    - _wenli_2_v: 0.2
+    - _zhezhao_2_u: 0
+    - _zhezhao_2_v: 0
+    m_Colors:
+    - _node_2271: {r: 0.17647058, g: 0.75, b: 0.27535498, a: 1}
